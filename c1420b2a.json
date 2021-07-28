@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Imitation roof beams ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/ce685f57ab087562c0a903c08013cd8ff82c3ed7faf19177071a254c6386ce06",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:83.516357421875,9.129960060119629,408.5160217285156,53.094882011413574"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#0adbef63-0eb8-4a0a-bdfe-7800b84b573e"
+  }
+]

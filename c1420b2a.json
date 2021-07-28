@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#0adbef63-0eb8-4a0a-bdfe-7800b84b573e"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Carved funerary couch",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/ce685f57ab087562c0a903c08013cd8ff82c3ed7faf19177071a254c6386ce06",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:255.26315307617188,231.408935546875,183.35549926757812,107.3824462890625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#edc85868-e3b0-489c-8cce-7ac3508e80d6"
   }
 ]

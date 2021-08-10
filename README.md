@@ -14,4 +14,4 @@ It is the site of the ancient Etruscan city which was one of the most important 
 Caere was one of the city-states of the Etruscan League and at its height, around 600 BC, its population was perhaps around 25,000 – 40,000 people. The ancient city was situated about 7 km from the sea, a location which made it a wealthy trading town derived originally from the iron-ore mines in the Tolfa Hills. It had three sea ports including <span data-click-image-zoomto="97,168,352,1540"> Pyrgi, </span> connected to Caere by a road about 13 km long and 10 m wide, and Punicum. Pyrgi was also known for its sanctuary of monumental temples from 510 BC, built by the king of Caere and dedicated to the goddesses Leucothea and Ilithyia, of which several sculptures are exhibited at the Villa Giulia.
 <param ve-map center="Q242505" zoom="13">
 
-<param ve-image url="1000_1164_11640021.jpeg">
+<param ve-image url="1000_1164_11640021.jpeg" fit="contain">
